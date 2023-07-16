@@ -59,12 +59,32 @@
     <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
   &nbsp;
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> 
+    <img align="center" src="https://cdn.freebiesupply.com/logos/thumbs/2x/npm-logo.png" alt="npm" width="50" height="40"/> 
+  </a>
+  &nbsp;
+  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
+    <img align="center" src="https://raw.githubusercontent.com/babel/logo/master/babel.png" alt="babel" width="55" height="40"/> 
+  </a>
+  &nbsp;
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a>
   &nbsp;
+  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
+    <img align="center" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" alt="webpack" width="40" height="40"/> 
+  </a>
+  &nbsp;
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
+  </a>
+  &nbsp;
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
     <img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png" alt="vs code" width="40" height="40"/> 
+  </a>
+  &nbsp;
+  <a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer"> 
+    <img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/react-router-logo-png-transparent.png" alt="react router" width="70" height="40"/> 
   </a>
   &nbsp;
   <a href="https://slack.com/" target="_blank" rel="noreferrer"> 
@@ -75,29 +95,10 @@
     <img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a>
   &nbsp;
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-  </a>
-  &nbsp;
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://cdn.freebiesupply.com/logos/thumbs/2x/npm-logo.png" alt="npm" width="50" height="40"/> 
-  </a>
-  &nbsp;
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://raw.githubusercontent.com/babel/logo/master/babel.png" alt="babel" width="55" height="40"/> 
-  </a>
-  &nbsp;
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" alt="webpack" width="40" height="40"/> 
-  </a>
-  &nbsp;
   <a href="https://jwt.io/" target="_blank" rel="noreferrer"> 
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="jwt" width="40" height="40"/> 
   </a>
   &nbsp;
-  <a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/react-router-logo-png-transparent.png" alt="react router" width="70" height="40"/> 
-  </a>
 </p>
 
 ### Let's Connect 🛜
