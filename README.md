@@ -2,6 +2,8 @@
 
 ### About Me 🧍🏻
 
+<p>Hello my name is Lamberto Martinez, and I'm a Software Engineer highly skilled in JavaScript (ES5/ES6), React JS, HTML 5, CSS3, Bootstrap 5, and many more! I love being able to bring my code to to life and seeing my friends and family put it to use. As technology advances I make sure to stay ontop of it and do my research which allows me to tay up to date and apply it to my current code!</p>
+
 ### Stack 🧑🏻‍💻
 
 ### Tools 🛠️
