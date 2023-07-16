@@ -1,6 +1,13 @@
 ## Hello, I'm Lamberto Martinez‼️👋🏼
 
-### 
+### About Me 🧍🏻
+
+### Stack 🧑🏻‍💻
+
+### Tools 🛠️
+
+### Let's Connect 🛜
+
 <!--
 **Lambpato/Lambpato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
