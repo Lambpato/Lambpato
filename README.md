@@ -60,7 +60,7 @@
   <a href="https://stackoverflow.com/users/21504877/lambpato" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stack overflow" height="30" width="40" />
   </a>
-   <a href="lambpato@gmail.com" target="blank">
+   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lambpato@gmail.com" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="gmail" height="30" width="40" />
   </a>
   
