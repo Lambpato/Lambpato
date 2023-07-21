@@ -83,6 +83,10 @@
     <img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png" alt="vs code" width="40" height="40"/> 
   </a>
   &nbsp;
+    <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"> 
+    <img align="center" src="https://swimburger.net/media/ppnn3pcl/azure.png" alt="azure" width="40" height="40"/> 
+  </a>
+  &nbsp;
   <a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer"> 
     <img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/react-router-logo-png-transparent.png" alt="react router" width="70" height="40"/> 
   </a>
