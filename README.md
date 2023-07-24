@@ -1,4 +1,4 @@
-## Hello, I'm Lamberto Martinez‼👋🏼
+## Hey, I'm Lamberto Martinez‼👋🏼
 
 ### About Me 🧍🏻
 
