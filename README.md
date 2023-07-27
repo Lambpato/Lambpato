@@ -6,11 +6,9 @@
 
 ### Stats 🔥
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lambpato&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lambpato&theme=prussian)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lambpato&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lambpato&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lambpato&theme=prussian)
 
 ### Stack 🧑🏻‍💻
 
@@ -47,6 +45,8 @@
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a>
 </p>  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lambpato&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tools 🛠️
 
