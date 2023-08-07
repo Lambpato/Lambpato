@@ -2,7 +2,7 @@
 
 ### About Me 🧍🏻
 
-<p>Hello my name is Lamberto Martinez, and I'm a Software Engineer highly skilled in various tools and languages! I love being able to bring my code to to life and seeing my friends and family put it to use. As technology advances I make sure to stay ontop of it and do my research which allows me to tay up to date and apply it to my current code!</p>
+<p>Hello my name is Lamberto Martinez, and I'm a Software Engineer highly skilled in various tools and languages! I love being able to bring my code to life and seeing my friends and family put it to use. As technology advances I make sure to stay on top of it and do my research which allows me to stay up to date and apply it to my current code!</p>
 
 ### Stats 🔥
 
