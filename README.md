@@ -6,8 +6,6 @@
 
 ### Stats 🔥
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lambpato&theme=prussian)](https://git.io/streak-stats)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lambpato&theme=prussian)
 
 ### Stack 🧑🏻‍💻
