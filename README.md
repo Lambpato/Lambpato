@@ -116,7 +116,6 @@
   <a href="https://jwt.io/" target="_blank" rel="noreferrer noopener"> 
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="jwt" width="40" height="40"/> 
   </a>
-  &nbsp;
 </p>
 
 ### Let's Connect 🛜
