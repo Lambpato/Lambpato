@@ -19,6 +19,10 @@
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
   &nbsp; 
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer noopener"> 
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" alt="vue" width="40" height="40"/> 
+  </a>
+  &nbsp; 
    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer noopener"> 
     <img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" alt="typescript" width="40" height="40"/> 
   </a>
