@@ -55,18 +55,17 @@
     <img align="center" src="https://www.svgrepo.com/show/374002/prisma.svg" alt="prisma" width="40" height="40"/> 
   </a>
   &nbsp; 
-  <!-- <a href="https://www.postgresql.org" target="_blank" rel="noreferrer noopener"> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer noopener"> 
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> -->
+  </a>
 </p>  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lambpato&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tools 🛠️
 
 <p align="left">
   <a href="https://github.com/Lambpato" target="_blank" rel="noreferrer noopener">
-    <img align="center" src="https://toppng.com/uploads/preview/github-logo-11609362429jyqzrkf6k1.png" alt="GitHub" width="40" height="40"/>
+    <img align="center" src="https://toppng.com/uploads/thumbnail/github-logo-png-transparent-background-116597800439i4eikifs2.png" alt="GitHub" width="40" height="40"/>
   </a>
   &nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer noopener">
