@@ -66,7 +66,7 @@
 
 <p align="left">
   <a href="https://github.com/Lambpato" target="_blank" rel="noreferrer noopener">
-    <img align="center" src="[https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png](https://toppng.com/uploads/preview/github-logo-11609362429jyqzrkf6k1.png)" alt="GitHub" width="40" height="40"/>
+    <img align="center" src="https://toppng.com/uploads/preview/github-logo-11609362429jyqzrkf6k1.png" alt="GitHub" width="40" height="40"/>
   </a>
   &nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer noopener">
