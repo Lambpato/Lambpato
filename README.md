@@ -1,4 +1,4 @@
-## Hey, I'm Lamberto Martinez‼👋🏼
+pr## Hey, I'm Lamberto Martinez‼👋🏼
 
 ### About Me 🧍🏻
 
@@ -44,7 +44,7 @@
   </a>
   &nbsp; 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer noopener" > 
-    <img align="center" src="https://expressjs.com/images/express-facebook-share.png" alt="express" width="80" height="30"/> 
+    <img align="center" src="https://remotebase.com/images-v2/nodejs-blue.svg" alt="express" width="45" height="45"/> 
   </a>
   &nbsp; 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer noopener"> 
